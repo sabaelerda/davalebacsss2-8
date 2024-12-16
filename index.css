@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#section {
+    max-width: 1604px;
+    width: 100%;
+    background-color: #FFAEAF;
+    margin: 0 auto;
+    margin-top: 64px;
+    padding: 96px;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 1412px;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 96px 66px 96px 66px;
+}
+
+#firstContainer {
+    max-width: 1280px;
+    width: 100%;
+}
+
+#blog {
+    color: #002AFE;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+#resource {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+#industry {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+#secondContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 96px;
+}
+
+#thirdContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 96px;
+    overflow: hidden; 
+}
+
+#secondImage {
+    float: right;
+    max-width: 100%;
+}
+
+#fourthContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 96px;
+}
